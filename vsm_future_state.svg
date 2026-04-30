@@ -1,0 +1,142 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+
+  <!-- Background -->
+  <rect width="1200" height="700" fill="#ffffff"/>
+
+  <!-- Title -->
+  <text x="600" y="36" text-anchor="middle" font-size="20" font-weight="bold" fill="#1a1a1a">Future State Value Stream Map — Loan Application Process</text>
+  <text x="600" y="58" text-anchor="middle" font-size="14" fill="#27500A" font-weight="600">Target Lead Time: 8 days  |  Saves 8.7 days  |  Waste reduced from 67% to 38%</text>
+
+  <!-- ═══ DATA SOURCES ROW ═══ -->
+  <rect x="40" y="80" width="140" height="46" rx="8" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1.5"/>
+  <text x="110" y="108" text-anchor="middle" font-size="14" font-weight="bold" fill="#085041">Applicant</text>
+
+  <rect x="530" y="80" width="140" height="46" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="2"/>
+  <text x="600" y="108" text-anchor="middle" font-size="14" font-weight="bold" fill="#27500A">Credeq</text>
+
+  <rect x="1020" y="80" width="140" height="46" rx="8" fill="#042C53" stroke="#042C53" stroke-width="1.5"/>
+  <text x="1090" y="108" text-anchor="middle" font-size="14" font-weight="bold" fill="#B5D4F4">Lombard</text>
+
+  <defs>
+    <marker id="arrG2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#1D9E75" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <marker id="arrB2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#185FA5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <marker id="arrGr2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="#888780" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <line x1="180" y1="103" x2="528" y2="103" stroke="#1D9E75" stroke-width="1.5" marker-end="url(#arrG2)"/>
+  <text x="354" y="96" text-anchor="middle" font-size="12" fill="#085041">Application data</text>
+  <line x1="1018" y1="103" x2="672" y2="103" stroke="#185FA5" stroke-width="1.5" marker-end="url(#arrB2)"/>
+  <text x="845" y="96" text-anchor="middle" font-size="12" fill="#0C447C">Payment confirmations</text>
+  <line x1="600" y1="126" x2="600" y2="165" stroke="#888780" stroke-width="1.5" marker-end="url(#arrGr2)"/>
+
+  <!-- ═══ PROCESS STEPS ═══ -->
+  <!-- Step 1: Auto Capture (LLM+OCR) — GREEN = automated -->
+  <rect x="40" y="165" width="148" height="88" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="2"/>
+  <rect x="42" y="167" width="52" height="17" rx="5" fill="#3B6D11"/>
+  <text x="68" y="179" text-anchor="middle" font-size="10" font-weight="bold" fill="#EAF3DE">AUTO</text>
+  <text x="114" y="200" text-anchor="middle" font-size="13" font-weight="bold" fill="#27500A">Auto capture</text>
+  <text x="114" y="218" text-anchor="middle" font-size="11" fill="#3B6D11">LLM + OCR</text>
+  <text x="114" y="236" text-anchor="middle" font-size="12" font-weight="bold" fill="#27500A">0.5 day</text>
+
+  <!-- Queue 1: 0.5 day (was 3.2) — light green = reduced -->
+  <polygon points="230,197 258,237 202,237" fill="#9FE1CB" stroke="#0F6E56" stroke-width="1.5"/>
+  <text x="230" y="254" text-anchor="middle" font-size="12" font-weight="bold" fill="#085041">0.5 day</text>
+  <rect x="196" y="258" width="68" height="16" rx="3" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1"/>
+  <text x="230" y="270" text-anchor="middle" font-size="10" fill="#085041">was 3.2 days</text>
+  <line x1="260" y1="217" x2="286" y2="217" stroke="#888780" stroke-width="1.5" marker-end="url(#arrGr2)"/>
+
+  <!-- Step 2: AI-Assisted Doc Verification -->
+  <rect x="286" y="165" width="148" height="88" rx="8" fill="#E6F1FB" stroke="#185FA5" stroke-width="1.5"/>
+  <rect x="288" y="167" width="52" height="17" rx="5" fill="#185FA5"/>
+  <text x="314" y="179" text-anchor="middle" font-size="10" font-weight="bold" fill="#E6F1FB">AI-AID</text>
+  <text x="360" y="200" text-anchor="middle" font-size="13" font-weight="bold" fill="#0C447C">Doc verification</text>
+  <text x="360" y="218" text-anchor="middle" font-size="11" fill="#185FA5">AI-assisted review</text>
+  <text x="360" y="236" text-anchor="middle" font-size="12" font-weight="bold" fill="#0C447C">1 day</text>
+
+  <!-- Queue 2: 1 day (was 2.5) -->
+  <polygon points="476,197 504,237 448,237" fill="#FAC775" stroke="#BA7517" stroke-width="1.5"/>
+  <text x="476" y="254" text-anchor="middle" font-size="12" font-weight="bold" fill="#633806">1 day</text>
+  <rect x="442" y="258" width="68" height="16" rx="3" fill="#FFF8EC" stroke="#BA7517" stroke-width="1"/>
+  <text x="476" y="270" text-anchor="middle" font-size="10" fill="#633806">was 2.5 days</text>
+  <line x1="506" y1="217" x2="532" y2="217" stroke="#888780" stroke-width="1.5" marker-end="url(#arrGr2)"/>
+
+  <!-- Step 3: Legal/Policy Review (unchanged) -->
+  <rect x="532" y="165" width="148" height="88" rx="8" fill="#FAECE7" stroke="#993C1D" stroke-width="1.5"/>
+  <text x="606" y="196" text-anchor="middle" font-size="13" font-weight="bold" fill="#712B13">Legal/policy review</text>
+  <text x="606" y="214" text-anchor="middle" font-size="11" fill="#993C1D">Lombard checks</text>
+  <text x="606" y="232" text-anchor="middle" font-size="12" font-weight="bold" fill="#712B13">2 days</text>
+  <text x="606" y="248" text-anchor="middle" font-size="10" fill="#993C1D">(unchanged)</text>
+
+  <!-- Queue 3: 1.5 days (was 3.5) -->
+  <polygon points="722,197 750,237 694,237" fill="#FAC775" stroke="#BA7517" stroke-width="1.5"/>
+  <text x="722" y="254" text-anchor="middle" font-size="12" font-weight="bold" fill="#633806">1.5 days</text>
+  <rect x="688" y="258" width="68" height="16" rx="3" fill="#FFF8EC" stroke="#BA7517" stroke-width="1"/>
+  <text x="722" y="270" text-anchor="middle" font-size="10" fill="#633806">was 3.5 days</text>
+  <line x1="752" y1="217" x2="778" y2="217" stroke="#888780" stroke-width="1.5" marker-end="url(#arrGr2)"/>
+
+  <!-- Step 4: Funding Request -->
+  <rect x="778" y="165" width="148" height="88" rx="8" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.5"/>
+  <text x="852" y="196" text-anchor="middle" font-size="13" font-weight="bold" fill="#633806">Funding request</text>
+  <text x="852" y="214" text-anchor="middle" font-size="11" fill="#854F0B">Finance requests funds</text>
+  <text x="852" y="232" text-anchor="middle" font-size="12" font-weight="bold" fill="#633806">1 day</text>
+
+  <!-- Queue 4: 0.5 day (was 2) — green reduced -->
+  <polygon points="852,272 880,312 824,312" fill="#9FE1CB" stroke="#0F6E56" stroke-width="1.5"/>
+  <text x="852" y="330" text-anchor="middle" font-size="12" font-weight="bold" fill="#085041">0.5 day</text>
+  <rect x="818" y="334" width="68" height="16" rx="3" fill="#E1F5EE" stroke="#0F6E56" stroke-width="1"/>
+  <text x="852" y="346" text-anchor="middle" font-size="10" fill="#085041">was 2 days</text>
+  <line x1="852" y1="350" x2="852" y2="370" stroke="#888780" stroke-width="1.5" marker-end="url(#arrGr2)"/>
+
+  <!-- Disbursement -->
+  <rect x="778" y="370" width="148" height="68" rx="8" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.5"/>
+  <text x="852" y="398" text-anchor="middle" font-size="13" font-weight="bold" fill="#27500A">Disbursement</text>
+  <text x="852" y="416" text-anchor="middle" font-size="11" fill="#3B6D11">Funds released</text>
+  <text x="852" y="432" text-anchor="middle" font-size="12" font-weight="bold" fill="#27500A">0.5 day</text>
+
+  <!-- ═══ TIMELINE ═══ -->
+  <line x1="40" y1="510" x2="1160" y2="510" stroke="#B4B2A9" stroke-width="1.2"/>
+
+  <!-- Process bars -->
+  <rect x="40"  y="498" width="30"  height="24" rx="4" fill="#639922"/>
+  <rect x="286" y="498" width="56"  height="24" rx="4" fill="#85B7EB"/>
+  <rect x="532" y="498" width="108" height="24" rx="4" fill="#F0997B"/>
+  <rect x="778" y="498" width="56"  height="24" rx="4" fill="#EF9F27"/>
+  <rect x="1120" y="498" width="30" height="24" rx="4" fill="#97C459"/>
+
+  <!-- Wait bars -->
+  <rect x="70"  y="498" width="216" height="24" rx="4" fill="#9FE1CB" opacity="0.7"/>
+  <rect x="342" y="498" width="190" height="24" rx="4" fill="#FAC775" opacity="0.6"/>
+  <rect x="640" y="498" width="138" height="24" rx="4" fill="#FAC775" opacity="0.6"/>
+  <rect x="834" y="498" width="286" height="24" rx="4" fill="#9FE1CB" opacity="0.7"/>
+
+  <!-- Timeline labels -->
+  <text x="55"   y="542" text-anchor="middle" font-size="11" fill="#27500A">0.5d</text>
+  <text x="178"  y="542" text-anchor="middle" font-size="11" fill="#085041">0.5d wait</text>
+  <text x="314"  y="542" text-anchor="middle" font-size="11" fill="#0C447C">1d</text>
+  <text x="437"  y="542" text-anchor="middle" font-size="11" fill="#633806">1d wait</text>
+  <text x="586"  y="542" text-anchor="middle" font-size="11" fill="#712B13">2d</text>
+  <text x="709"  y="542" text-anchor="middle" font-size="11" fill="#633806">1.5d wait</text>
+  <text x="806"  y="542" text-anchor="middle" font-size="11" fill="#633806">1d</text>
+  <text x="977"  y="542" text-anchor="middle" font-size="11" fill="#085041">0.5d wait</text>
+  <text x="1135" y="542" text-anchor="middle" font-size="11" fill="#27500A">0.5d</text>
+
+  <!-- Summary -->
+  <text x="600" y="578" text-anchor="middle" font-size="16" font-weight="bold" fill="#1a1a1a">Total: 8 days</text>
+  <text x="600" y="600" text-anchor="middle" font-size="13" fill="#5F5E5A">Process time: 5 days   |   Queue / wait time: 3 days (38% waste)</text>
+  <text x="600" y="620" text-anchor="middle" font-size="12" fill="#3B6D11">LLM + OCR eliminates 2.7 days from capture queue alone — total saving: 8.7 days</text>
+
+  <!-- Legend -->
+  <rect x="160" y="645" width="14" height="14" rx="3" fill="#639922"/><text x="180" y="656" font-size="12" fill="#5F5E5A">Automated (LLM+OCR)</text>
+  <rect x="360" y="645" width="14" height="14" rx="3" fill="#85B7EB"/><text x="380" y="656" font-size="12" fill="#5F5E5A">AI-assisted</text>
+  <rect x="500" y="645" width="14" height="14" rx="3" fill="#9FE1CB"/><text x="520" y="656" font-size="12" fill="#5F5E5A">Reduced wait</text>
+  <rect x="640" y="645" width="14" height="14" rx="3" fill="#FAC775" opacity="0.7"/><text x="660" y="656" font-size="12" fill="#5F5E5A">Remaining wait</text>
+  <rect x="800" y="645" width="14" height="14" rx="3" fill="#042C53"/><text x="820" y="656" font-size="12" fill="#5F5E5A">Lombard (funder)</text>
+  <rect x="970" y="645" width="14" height="14" rx="3" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.5"/><text x="990" y="656" font-size="12" fill="#5F5E5A">Credeq (our org)</text>
+
+</svg>

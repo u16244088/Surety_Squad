@@ -1,0 +1,301 @@
+Customer_ID,Customer_Name,Industry,Years_in_Business,Has_CFO
+CUS0000,"Pearson, Jackson and Banks",Construction,21,Yes
+CUS0001,Morton-Jordan,Construction,24,Yes
+CUS0002,Kemp PLC,Construction,8,Yes
+CUS0003,Turner Group,Construction,4,No
+CUS0004,"Weston, Lawson and Jackson",Construction,18,Yes
+CUS0005,"Harper, Murphy and Harvey",Construction,14,Yes
+CUS0006,Jackson-Thompson,Construction,3,Yes
+CUS0007,"Jones, Jordan and Cole",Construction,17,No
+CUS0008,"Jones, Lloyd and Jones",Construction,18,Yes
+CUS0009,"Thomas, Warren and Frost",Construction,21,No
+CUS0010,Lee-Pritchard,Construction,14,Yes
+CUS0011,"Green, Begum and Gray",Construction,19,Yes
+CUS0012,"Green, Holden and Ward",Construction,1,No
+CUS0013,Parker-Byrne,Construction,6,No
+CUS0014,Bryan Inc,Construction,11,Yes
+CUS0015,"Gardner, Taylor and Wilkinson",Construction,7,No
+CUS0016,Kay-Brennan,Construction,11,Yes
+CUS0017,Hodgson and Sons,Construction,13,Yes
+CUS0018,Griffiths Group,Construction,12,No
+CUS0019,Lewis-Davies,Construction,2,No
+CUS0020,"Jones, Stephens and Newton",Construction,18,Yes
+CUS0021,Lane-Giles,Construction,13,Yes
+CUS0022,Taylor-Reid,Construction,10,No
+CUS0023,Noble-Elliott,Construction,20,No
+CUS0024,Wilkins Inc,Construction,12,Yes
+CUS0025,Johnson-Davies,Construction,23,Yes
+CUS0026,Power Group,Construction,22,Yes
+CUS0027,Banks-Davis,Construction,10,No
+CUS0028,"Walters, Vaughan and Hardy",Construction,8,No
+CUS0029,Martin Inc,Construction,13,Yes
+CUS0030,Payne and Sons,Construction,21,No
+CUS0031,Naylor-Tomlinson,Construction,6,Yes
+CUS0032,"Daniels, Jones and Austin",Construction,7,No
+CUS0033,John-Fox,Construction,23,No
+CUS0034,Whitehouse-Howell,Construction,21,Yes
+CUS0035,"Davies, Nicholson and Bennett",Construction,21,Yes
+CUS0036,Hyde-Walton,Construction,24,Yes
+CUS0037,Higgins LLC,Construction,15,Yes
+CUS0038,Wilkinson-Holmes,Construction,21,No
+CUS0039,Hart PLC,Construction,8,No
+CUS0040,Thompson Group,Construction,25,No
+CUS0041,Stone-Thomas,Construction,8,No
+CUS0042,Howarth-Hamilton,Construction,11,Yes
+CUS0043,Wallis-Williams,Construction,3,Yes
+CUS0044,Holland-Griffiths,Construction,19,No
+CUS0045,Gibson-Scott,Construction,11,Yes
+CUS0046,"Hughes, John and Carr",Construction,16,Yes
+CUS0047,Mason-Harding,Construction,21,Yes
+CUS0048,"Williams, Howard and Taylor",Construction,9,Yes
+CUS0049,Smith Group,Construction,24,Yes
+CUS0050,Richardson-Bennett,Construction,9,No
+CUS0051,Walsh-Foster,Construction,14,No
+CUS0052,Summers-Berry,Construction,13,Yes
+CUS0053,Smith-Bishop,Construction,5,Yes
+CUS0054,Phillips-Kennedy,Construction,3,No
+CUS0055,Johnson-Talbot,Construction,4,Yes
+CUS0056,"Richardson, Williams and Brown",Construction,6,No
+CUS0057,Williams Group,Construction,14,Yes
+CUS0058,"Hudson, O'Brien and Holland",Construction,13,Yes
+CUS0059,Lewis and Sons,Construction,15,Yes
+CUS0060,Brown-Bradley,Construction,18,No
+CUS0061,Watts Group,Construction,1,No
+CUS0062,Quinn-Long,Construction,4,No
+CUS0063,Griffiths Ltd,Construction,18,No
+CUS0064,Hughes and Sons,Construction,25,No
+CUS0065,Griffiths Group,Construction,4,Yes
+CUS0066,Wright Inc,Construction,6,Yes
+CUS0067,Frost Inc,Construction,24,No
+CUS0068,Blackburn-Cooper,Construction,9,No
+CUS0069,"Bell, Bibi and Clark",Construction,25,Yes
+CUS0070,Hale-Allen,Construction,4,No
+CUS0071,Kaur-Richards,Construction,10,No
+CUS0072,Mitchell-Barnes,Construction,17,No
+CUS0073,"Newman, Smith and Coleman",Construction,5,Yes
+CUS0074,Smith-Richards,Construction,6,Yes
+CUS0075,Thomas PLC,Construction,25,No
+CUS0076,"Barnes, Parsons and Iqbal",Construction,1,Yes
+CUS0077,"Simpson, Barton and Tyler",Construction,16,Yes
+CUS0078,Bennett-Austin,Construction,12,No
+CUS0079,"Smith, Davis and Clarke",Construction,10,Yes
+CUS0080,"Barry, Wood and Russell",Construction,8,No
+CUS0081,Willis Ltd,Construction,3,Yes
+CUS0082,Bryant-Lynch,Construction,16,No
+CUS0083,Whitehead-Jones,Construction,25,Yes
+CUS0084,Bennett PLC,Construction,5,Yes
+CUS0085,Chapman-Campbell,Construction,16,No
+CUS0086,Simpson-Smith,Construction,6,Yes
+CUS0087,"Barry, Roberts and Rogers",Construction,20,Yes
+CUS0088,"Hammond, Turner and Poole",Construction,7,No
+CUS0089,Gray and Sons,Construction,25,No
+CUS0090,Gregory Group,Construction,7,No
+CUS0091,"Lowe, Simpson and Berry",Construction,13,No
+CUS0092,"Chandler, Clark and Bennett",Construction,21,Yes
+CUS0093,"Carr, Cooke and Wheeler",Construction,17,Yes
+CUS0094,"Jennings, Lynch and Richardson",Construction,8,Yes
+CUS0095,Evans Group,Construction,11,Yes
+CUS0096,Boyle Group,Construction,18,Yes
+CUS0097,Khan-Shaw,Construction,8,Yes
+CUS0098,Newton Ltd,Construction,23,No
+CUS0099,Jackson-Mitchell,Construction,8,Yes
+CUS0100,Clark-Armstrong,Construction,2,No
+CUS0101,"Tucker, Bailey and Morley",Construction,3,Yes
+CUS0102,Hall and Sons,Construction,9,No
+CUS0103,Jackson and Sons,Construction,7,Yes
+CUS0104,"Ellis, Brown and Anderson",Construction,24,No
+CUS0105,"Smith, Stewart and Saunders",Construction,19,Yes
+CUS0106,Hooper-Murphy,Construction,8,No
+CUS0107,"Barber, Thomas and Cox",Construction,14,Yes
+CUS0108,"Young, Holden and Harris",Construction,4,No
+CUS0109,Wilson-Moss,Construction,12,Yes
+CUS0110,"James, Jones and Fox",Construction,15,No
+CUS0111,"Carter, Williams and James",Construction,2,No
+CUS0112,Cole-Davies,Construction,21,Yes
+CUS0113,"White, Harvey and Robinson",Construction,13,No
+CUS0114,Williamson-Thompson,Construction,4,Yes
+CUS0115,"Wilson, Bradley and Lowe",Construction,7,Yes
+CUS0116,Bennett-Douglas,Construction,5,Yes
+CUS0117,Day Inc,Construction,9,Yes
+CUS0118,Ferguson-Robinson,Construction,3,Yes
+CUS0119,Hilton-Walsh,Construction,18,Yes
+CUS0120,"Sharp, Watson and Knowles",Construction,21,No
+CUS0121,Baker-Holland,Construction,1,No
+CUS0122,"Phillips, Powell and Brown",Construction,25,No
+CUS0123,Lewis Inc,Construction,6,Yes
+CUS0124,Fisher Ltd,Construction,16,Yes
+CUS0125,Williamson-Elliott,Construction,13,No
+CUS0126,Watts-Henderson,Construction,6,Yes
+CUS0127,Mistry-Moore,Construction,13,Yes
+CUS0128,Hussain Group,Construction,15,Yes
+CUS0129,Burton-Smith,Construction,23,No
+CUS0130,"Chapman, Chapman and Shaw",Construction,18,No
+CUS0131,Smith-Greenwood,Construction,16,Yes
+CUS0132,"Nicholls, Williams and Morgan",Construction,10,Yes
+CUS0133,Lynch and Sons,Construction,2,Yes
+CUS0134,Fraser Inc,Construction,18,Yes
+CUS0135,"Wilkinson, Mills and Edwards",Construction,11,Yes
+CUS0136,Bennett-Roberts,Construction,19,Yes
+CUS0137,Tyler-Morgan,Construction,17,Yes
+CUS0138,"Hamilton, White and Hughes",Construction,17,Yes
+CUS0139,Graham-Wilson,Construction,6,Yes
+CUS0140,"Baldwin, French and Wood",Construction,3,No
+CUS0141,Burton PLC,Construction,8,Yes
+CUS0142,Roberts-Nixon,Construction,19,Yes
+CUS0143,"Grant, Wood and Welch",Construction,20,Yes
+CUS0144,King-Kirby,Construction,3,Yes
+CUS0145,"Hall, Wallace and Holland",Construction,19,Yes
+CUS0146,Dixon-Lucas,Construction,11,No
+CUS0147,Newton-Marsh,Construction,7,No
+CUS0148,Rees PLC,Construction,11,Yes
+CUS0149,"Moore, Lane and Perkins",Construction,13,Yes
+CUS0150,"Roberts, Williams and Slater",Construction,21,Yes
+CUS0151,"Lee, Carr and Oliver",Construction,11,No
+CUS0152,"Hart, Fleming and Ali",Construction,3,Yes
+CUS0153,"Green, Doyle and Ross",Construction,20,No
+CUS0154,Metcalfe and Sons,Construction,4,Yes
+CUS0155,Byrne-Clark,Construction,7,Yes
+CUS0156,"Simpson, Lynch and Martin",Construction,5,No
+CUS0157,Lewis Inc,Construction,3,No
+CUS0158,Fox-Sutton,Construction,12,Yes
+CUS0159,Hayward Ltd,Construction,15,No
+CUS0160,Andrews-Perkins,Construction,23,Yes
+CUS0161,Jones Inc,Construction,21,Yes
+CUS0162,Clarke PLC,Construction,22,No
+CUS0163,Howell and Sons,Construction,10,No
+CUS0164,Hill-Frost,Construction,4,No
+CUS0165,"Brown, McDonald and Clark",Construction,5,Yes
+CUS0166,Wood-Hurst,Construction,4,No
+CUS0167,Green-Skinner,Construction,5,Yes
+CUS0168,O'Sullivan-Bull,Construction,20,Yes
+CUS0169,"Barnes, Jenkins and Murphy",Construction,11,Yes
+CUS0170,Jones Group,Construction,21,No
+CUS0171,Griffiths-O'Brien,Construction,17,Yes
+CUS0172,Carr-Little,Construction,2,Yes
+CUS0173,Godfrey and Sons,Construction,14,No
+CUS0174,Holmes-Jackson,Construction,2,Yes
+CUS0175,White Inc,Construction,25,Yes
+CUS0176,Ingram PLC,Construction,9,Yes
+CUS0177,"Middleton, Wallace and Smith",Construction,15,Yes
+CUS0178,"Gibbs, Clark and Butcher",Construction,14,Yes
+CUS0179,Miah-Johnson,Construction,4,Yes
+CUS0180,Ryan PLC,Construction,23,No
+CUS0181,"North, Potter and Noble",Construction,18,Yes
+CUS0182,Humphreys PLC,Construction,12,Yes
+CUS0183,Butler and Sons,Construction,5,Yes
+CUS0184,Harrison-Barnes,Construction,2,Yes
+CUS0185,Kemp Ltd,Construction,2,No
+CUS0186,Russell Inc,Construction,7,No
+CUS0187,Khan-Winter,Construction,22,Yes
+CUS0188,"Owen, Kent and Barker",Construction,25,Yes
+CUS0189,Day Inc,Construction,14,No
+CUS0190,Lambert and Sons,Construction,24,Yes
+CUS0191,Davis and Sons,Construction,8,No
+CUS0192,"Norris, Dixon and Turner",Construction,6,No
+CUS0193,"Peters, Woodward and Day",Construction,1,Yes
+CUS0194,Bennett-Jones,Construction,11,No
+CUS0195,Sinclair-Clarke,Construction,14,No
+CUS0196,Jones-Tomlinson,Construction,24,No
+CUS0197,"Mills, Patel and Duffy",Construction,9,Yes
+CUS0198,Stephens-Patel,Construction,23,Yes
+CUS0199,Clark Group,Construction,2,No
+CUS0200,"Harding, Smith and Jones",Construction,8,Yes
+CUS0201,Hale-Young,Construction,15,Yes
+CUS0202,Forster-Potts,Construction,8,Yes
+CUS0203,Thomas-Wood,Construction,22,Yes
+CUS0204,Mitchell-Stephenson,Construction,11,Yes
+CUS0205,Morgan-O'Sullivan,Construction,3,No
+CUS0206,Gibbs-Jones,Construction,9,Yes
+CUS0207,"West, Newman and Gill",Construction,17,Yes
+CUS0208,Moss PLC,Construction,18,Yes
+CUS0209,Smith Group,Construction,1,Yes
+CUS0210,White PLC,Construction,9,Yes
+CUS0211,"Jones, White and Humphries",Construction,9,Yes
+CUS0212,"Gardner, Giles and Cook",Construction,20,Yes
+CUS0213,"Morris, Joyce and Lord",Construction,24,No
+CUS0214,Brady Group,Construction,14,No
+CUS0215,Jones-Bell,Construction,17,Yes
+CUS0216,"Webb, Taylor and Simpson",Construction,19,Yes
+CUS0217,Holland-Charlton,Construction,2,No
+CUS0218,Davies and Sons,Construction,1,Yes
+CUS0219,Jones Group,Construction,18,No
+CUS0220,Fox and Sons,Construction,24,No
+CUS0221,Porter-Rahman,Construction,7,Yes
+CUS0222,"Powell, Hamilton and Simpson",Construction,3,No
+CUS0223,"Wood, Law and Harris",Construction,11,No
+CUS0224,"Hartley, Tyler and Nash",Construction,22,No
+CUS0225,White-Thompson,Construction,24,No
+CUS0226,Gordon-Powell,Construction,17,Yes
+CUS0227,"Pope, Richardson and Armstrong",Construction,14,Yes
+CUS0228,Lane PLC,Construction,23,Yes
+CUS0229,Ellis-Walsh,Construction,5,Yes
+CUS0230,Quinn LLC,Construction,22,No
+CUS0231,"Davies, Begum and Martin",Construction,22,No
+CUS0232,Clarke and Sons,Construction,6,No
+CUS0233,Smith LLC,Construction,10,Yes
+CUS0234,"Walters, Russell and Reed",Construction,1,Yes
+CUS0235,Cooper-Wells,Construction,7,Yes
+CUS0236,Cooke-Whitehead,Construction,19,No
+CUS0237,Lane-Parry,Construction,11,Yes
+CUS0238,Bradshaw-Schofield,Construction,15,No
+CUS0239,Davis-Thomas,Construction,17,Yes
+CUS0240,"Douglas, Lewis and Richardson",Construction,24,Yes
+CUS0241,Lewis-Cameron,Construction,3,Yes
+CUS0242,Moore-Richards,Construction,22,No
+CUS0243,"O'Sullivan, Preston and Roberts",Construction,11,Yes
+CUS0244,"Brown, Ford and Briggs",Construction,25,Yes
+CUS0245,Burton PLC,Construction,10,Yes
+CUS0246,Wilson Ltd,Construction,7,Yes
+CUS0247,"Hawkins, Potts and Storey",Construction,2,Yes
+CUS0248,Akhtar LLC,Construction,16,No
+CUS0249,Dean-Ahmed,Construction,25,Yes
+CUS0250,"Watson, Bradley and Patel",Construction,14,No
+CUS0251,Higgins PLC,Construction,19,Yes
+CUS0252,"Collins, Williams and Bevan",Construction,23,Yes
+CUS0253,"Stanley, Holt and Johnson",Construction,13,Yes
+CUS0254,"Thomas, Williamson and Pearce",Construction,21,No
+CUS0255,"Watson, Murphy and Hancock",Construction,25,No
+CUS0256,"Carter, Phillips and Wilson",Construction,4,No
+CUS0257,Walker Ltd,Construction,8,Yes
+CUS0258,Sharp and Sons,Construction,23,Yes
+CUS0259,Harris-Taylor,Construction,2,Yes
+CUS0260,Martin-Smith,Construction,4,Yes
+CUS0261,"McKenzie, Hodgson and Thompson",Construction,15,No
+CUS0262,Berry-Reid,Construction,18,Yes
+CUS0263,"Townsend, Dodd and Kay",Construction,25,No
+CUS0264,"Hill, Burns and Arnold",Construction,20,No
+CUS0265,Green PLC,Construction,17,Yes
+CUS0266,"Watson, Saunders and Miller",Construction,18,Yes
+CUS0267,"Jordan, Bennett and Lowe",Construction,6,No
+CUS0268,Watts-Horton,Construction,16,Yes
+CUS0269,"Allen, Patel and Mitchell",Construction,25,Yes
+CUS0270,Owen LLC,Construction,21,Yes
+CUS0271,Collins LLC,Construction,25,Yes
+CUS0272,Ward-Ahmed,Construction,21,Yes
+CUS0273,Finch-Johnson,Construction,15,Yes
+CUS0274,"Mahmood, Gibbs and White",Construction,10,Yes
+CUS0275,"Thomas, Cox and Farrell",Construction,11,Yes
+CUS0276,Webb-Norton,Construction,18,Yes
+CUS0277,Stone Ltd,Construction,5,Yes
+CUS0278,Kemp-Roberts,Construction,23,Yes
+CUS0279,Black Group,Construction,7,Yes
+CUS0280,Holt Group,Construction,14,Yes
+CUS0281,O'Neill-Fox,Construction,15,Yes
+CUS0282,"Hudson, Williams and Baldwin",Construction,7,No
+CUS0283,Clarke LLC,Construction,13,No
+CUS0284,Williams and Sons,Construction,19,No
+CUS0285,Booth-Harrison,Construction,1,No
+CUS0286,"Stokes, Mahmood and Wilkinson",Construction,25,Yes
+CUS0287,Thomas-Hunter,Construction,16,Yes
+CUS0288,"Roberts, Norris and Butcher",Construction,12,Yes
+CUS0289,Wilson and Sons,Construction,13,No
+CUS0290,Smith Inc,Construction,14,Yes
+CUS0291,"Collins, Holmes and Thomas",Construction,24,Yes
+CUS0292,"Patterson, O'Sullivan and Coleman",Construction,20,No
+CUS0293,"Bentley, Bond and Bates",Construction,16,Yes
+CUS0294,Bird and Sons,Construction,14,Yes
+CUS0295,"Gordon, Byrne and Harris",Construction,13,Yes
+CUS0296,Ward Inc,Construction,22,No
+CUS0297,Russell Group,Construction,24,Yes
+CUS0298,"Reynolds, Nicholson and Young",Construction,15,No
+CUS0299,"Ali, Williams and Booth",Construction,20,Yes
